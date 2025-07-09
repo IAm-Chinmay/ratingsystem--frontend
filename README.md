@@ -6,7 +6,7 @@
 Clone the repository and install dependencies:
 
 ```bash
-git clone <your-repo-url>
+git clone[ https://github.com/IAm-Chinmay/ratingsystem--frontend.git
 cd rating-app
 npm install
 ```
